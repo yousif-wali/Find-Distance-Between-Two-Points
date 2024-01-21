@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E35E81F1-16FE-4BDA-91EC-6E33029014A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Find Distance Between Two Points/Program.fs">
+    <Files>
+      <File FileName="Find Distance Between Two Points/Program.fs" Line="18" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Find Distance Between Two Points" expanded="True">
+            <Node name="Find Distance Between Two Points" expanded="True">
+              <Node name="Program.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Find_220Distance_220Between_220Two_220Points PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

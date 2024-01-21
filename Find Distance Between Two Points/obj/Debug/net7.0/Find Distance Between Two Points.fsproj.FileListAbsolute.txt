@@ -1,0 +1,29 @@
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.fsproj.AssemblyReference.cache
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.AssemblyInfoInputs.cache
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.AssemblyInfo.fs
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.fsproj.CoreCompileInputs.cache
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/Find Distance Between Two Points
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/Find Distance Between Two Points.deps.json
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/Find Distance Between Two Points.runtimeconfig.json
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/Find Distance Between Two Points.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/Find Distance Between Two Points.pdb
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/FSharp.Core.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/cs/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/de/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/es/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/fr/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/it/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/ja/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/ko/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/pl/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/pt-BR/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/ru/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/tr/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/zh-Hans/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/bin/Debug/net7.0/zh-Hant/FSharp.Core.resources.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.fsproj.CopyComplete
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/refint/Find Distance Between Two Points.dll
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.pdb
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/Find Distance Between Two Points.genruntimeconfig.cache
+/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/obj/Debug/net7.0/ref/Find Distance Between Two Points.dll

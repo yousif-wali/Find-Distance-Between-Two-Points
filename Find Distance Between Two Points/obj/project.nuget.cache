@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3QV4QYRJizyVUfTfpbXDqGf7tb0q2tPe+7tfQKsAZIK/+3gcyFTadT9spJWtwkuLWA3YFrIP6Z0MXN2GLPwZBA==",
+  "success": true,
+  "projectFilePath": "/Users/yousifwali/Desktop/Programming Languages/F#/Find Distance Between Two Points/Find Distance Between Two Points/Find Distance Between Two Points.fsproj",
+  "expectedPackageFiles": [
+    "/Users/yousifwali/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
